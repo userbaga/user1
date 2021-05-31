@@ -1,0 +1,21 @@
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\bin\Debug\textset.exe.config
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\bin\Debug\textset.exe
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\bin\Debug\textset.pdb
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\obj\Debug\textset.csprojResolveAssemblyReference.cache
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\obj\Debug\textset.MainForm.resources
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\obj\Debug\textset.csproj.GenerateResource.Cache
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\obj\Debug\textset.exe
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\obj\Debug\textset.pdb
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\obj\Debug\textset.Form1.resources
+C:\Users\Lagutov_NA\Documents\SharpDevelop Projects\textset\textset\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\textset\bin\Debug\textset.exe.config
+C:\Users\user\Desktop\textset\bin\Debug\textset.exe
+C:\Users\user\Desktop\textset\bin\Debug\textset.pdb
+C:\Users\user\Desktop\textset\obj\Debug\textset.csprojAssemblyReference.cache
+C:\Users\user\Desktop\textset\obj\Debug\textset.Form1.resources
+C:\Users\user\Desktop\textset\obj\Debug\textset.MainForm.resources
+C:\Users\user\Desktop\textset\obj\Debug\textset.csproj.GenerateResource.cache
+C:\Users\user\Desktop\textset\obj\Debug\textset.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\textset\obj\Debug\textset.csproj.CopyComplete
+C:\Users\user\Desktop\textset\obj\Debug\textset.exe
+C:\Users\user\Desktop\textset\obj\Debug\textset.pdb
